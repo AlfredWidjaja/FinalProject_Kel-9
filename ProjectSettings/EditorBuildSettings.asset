@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/MainRoom.unity
+    guid: ac6d84e7b57a60d48b511f4e2439588b
+  - enabled: 1
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.11.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 145a2a45d7bc746b19cb68410368bf96
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b7d2a65b17963eb4f96eb821626f05a5, type: 2}
